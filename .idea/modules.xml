@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API Rate Limiter/API Rate Limiter.iml" filepath="$PROJECT_DIR$/API Rate Limiter/API Rate Limiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Amit_workspace.iml" filepath="$PROJECT_DIR$/.idea/Amit_workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitalWallet/DigitalWallet.iml" filepath="$PROJECT_DIR$/DigitalWallet/DigitalWallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" filepath="$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodApp/FoodApp.iml" filepath="$PROJECT_DIR$/FoodApp/FoodApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinuxFileSystem/LinuxFileSystem.iml" filepath="$PROJECT_DIR$/LinuxFileSystem/LinuxFileSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineVotingSystem/OnlineVotingSystem.iml" filepath="$PROJECT_DIR$/OnlineVotingSystem/OnlineVotingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZHigh Level Design/ZHigh Level Design.iml" filepath="$PROJECT_DIR$/ZHigh Level Design/ZHigh Level Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genericCache/genericCache.iml" filepath="$PROJECT_DIR$/genericCache/genericCache.iml" />
+    </modules>
+  </component>
+</project>
